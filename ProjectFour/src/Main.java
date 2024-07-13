@@ -7,6 +7,6 @@ public class Main {
         byte age = 30;
         Date now = new Date();
 
-        System.out.println("Hello world!");
+        System.out.println(now);
     }
 }
