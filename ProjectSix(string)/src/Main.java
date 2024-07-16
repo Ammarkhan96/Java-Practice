@@ -4,7 +4,7 @@ public class Main {
 
 //        String message = "Hello World";
         //string with concatenation
-        String message = "Hello World" + "!!";
+       String message = "Hello World" + "!!";
 
 //        System.out.println(message);
 //        System.out.println(message.endsWith("!!"));
@@ -14,7 +14,13 @@ public class Main {
 //        System.out.println(message.indexOf("e"));
 //        Pass any character or a string that doesn't exist:
 //        System.out.println(message.indexOf("sky"));
-        System.out.println(message.replace("!",  "*"));
+//        System.out.println(message.replace("!",  "*"));
+//        System.out.println(message);
+//        System.out.println(message.toLowerCase());
+//        System.out.println(message.toUpperCase());
+
+//        String message = "  Hello World" + "  !!   ";
+//        System.out.println(message.trim());
         System.out.println(message);
     }
 }
