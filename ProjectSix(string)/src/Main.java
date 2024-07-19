@@ -4,7 +4,7 @@ public class Main {
 
 //        String message = "Hello World";
         //string with concatenation
-       String message = "Hello World" + "!!";
+//       String message = "Hello World" + "!!";
 
 //        System.out.println(message);
 //        System.out.println(message.endsWith("!!"));
@@ -21,6 +21,12 @@ public class Main {
 
 //        String message = "  Hello World" + "  !!   ";
 //        System.out.println(message.trim());
+//        System.out.println(message);
+
+//        String message = "Hello \"Ammar\"";
+//        String message =  "d:\\Windows\\...";
+//        String message =  "d:\nWindows\\...";
+        String message =  "d:\tWindows\\...";
         System.out.println(message);
     }
 }
