@@ -21,8 +21,10 @@ public class Main {
 //        System.out.println(x);
 //        System.out.println(y);
 
-        int x = 1;
-        x += 2;
-        System.out.println(x);
+//        int x = 1;
+//        x += 2;
+
+
+        System.out.println();
     }
 }
